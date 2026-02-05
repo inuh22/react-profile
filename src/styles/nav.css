@@ -1,0 +1,10 @@
+.nav {
+    height: 7vh;
+    display: flex;
+    align-items: center;
+}
+.burger-icon {
+  font-size: 3vh;
+  box-sizing: border-box;
+  color: rgb(207, 207, 207);
+}
